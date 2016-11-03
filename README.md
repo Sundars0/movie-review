@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple movie review website with CRUD functionality, Users can Login and Logout add new movies and can rate and review. The website has Search functionality using a simple JQuery
 
-Things you may want to cover:
 
-* Ruby version
+Things you may want to know:
 
-* System dependencies
+* Ruby version - 2.3.0
 
-* Configuration
+* Rails version - 5.0.0.1
 
-* Database creation
+* Additional Gems used - Bootstrap-Sass, devise and Paperclip
 
-* Database initialization
+* Database - sqlite3
 
-* How to run the test suite
+* How to run the website locally - bundle install, db:migrate and rails s
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
